@@ -2,5 +2,5 @@ James Resolusi
 - Belajar github
 - Belajar programming
 - Mengerjakan tugas sekolah
-- Membuat sebuah project
 - Melakukan kolaborasi
+- Membuat sebuah program
